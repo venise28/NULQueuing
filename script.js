@@ -42,6 +42,3 @@ $(".btn").click(function() {
     updateModalTitle("#thirdModal", modalTitle);
     updateModalTitle("#admissionModal", modalTitle);
 });
-
-
-
